@@ -1,8 +1,8 @@
-# Hello! I'm Shania Soares
+# Hello! ⭐ I'm Shania Soares
 
-🎓 **Master of Data Science Student**
-💻 IT Graduate | Aspiring Data Scientist & Data Analyst
-📍 Melbourne, Australia
+🎓 **Master of Data Science Student** <br/>
+💻 IT Graduate | Aspiring Data Scientist & Data Analyst <br/>
+📍 Melbourne, Australia <br/>
 
 ---
 
@@ -24,38 +24,6 @@ I'm continuously expanding my knowledge while building practical projects that s
 * SQL
 * JavaScript
 * HTML & CSS
-
-### 📊 Data Science & Machine Learning
-
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Machine Learning
-* Data Cleaning
-* Feature Engineering
-* Model Evaluation
-* Data Visualization
-
-### 🗄️ Databases
-
-* PostgreSQL
-* Oracle SQL
-
-### 🌐 Web Development & APIs
-
-* Flask
-* REST APIs
-* JSON
-
-### ⚙️ Tools & Platforms
-
-* Git
-* GitHub
-* Visual Studio Code
-* Jupyter Notebook
-* Render
-* Postman
 
 ---
 
@@ -114,46 +82,19 @@ Developed machine learning models to predict water quality using environmental p
 * Advanced SQL
 * Time Series Forecasting
 * Data Engineering
-* Cloud Data Platforms
 * Deep Learning
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *Add your LinkedIn profile here*
-* 📧 Email: *Add your professional email here*
+* 💼 LinkedIn: https://www.linkedin.com/in/shania-soares-79b70a30a/
+* 📧 Email: shania.soares97@gmail.com
 
 ---
-
-## 📈 GitHub Stats
-
-> *(Optional: Add GitHub statistics and contribution cards once your profile contains more projects.)*
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark)
-```
-
----
-
-## 🎯 Career Interests
-
-I'm actively developing projects in:
-
-* 📊 Data Analytics
-* 🤖 Machine Learning
-* 🧠 Artificial Intelligence
-* 📈 Predictive Analytics
-* ☁️ Data Engineering
-* 📉 Business Intelligence
 
 I'm always eager to learn new technologies, collaborate on interesting projects, and apply data-driven solutions to real-world challenges.
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
+ 
